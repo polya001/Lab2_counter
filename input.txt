@@ -1,0 +1,3 @@
+The number of characters is calculated from this file
+Hello world!
+AAAAAAaaaaa
